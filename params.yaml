@@ -1,0 +1,14 @@
+login: 'aleksandr.Stalmakov@waveaccess.ru'
+password: '%3Fm{scTu}%'
+login_url: 'https://xn--80a.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/auth/login'
+
+common_file_link_url_prefix: 'https://xn--80a.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/goods-import/download-import-file?name='
+common_file_link_url_postfix: '&type=attrsedit&isResult=1'
+
+folder_path: 'D:/CRPT/2021.06_июнь/2021.06.24/'
+input_file: '2021_06_22_Импорт_изменения_атрибутов_у_КТ_список_файлов.xlsx'
+# тестовый список файлов
+file_list: ['c560ec49-e8ad-c508-8791-170cccfc0a0e_2021-06-22.xlsx', '72f7f4d4-0ce5-116f-e727-2c1cf3c3339c_2021-06-22.xlsx']
+
+
+
