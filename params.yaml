@@ -1,8 +1,8 @@
-login: 'aleksandr.Stalmakov@waveaccess.ru'
-password: '%3Fm{scTu}%'
-login_url: 'https://xn--80a.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/auth/login'
+login: '____'
+password: '____'
+login_url: 'https://_______/auth/login'
 
-common_file_link_url_prefix: 'https://xn--80a.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/goods-import/download-import-file?name='
+common_file_link_url_prefix: 'https://_____________/goods-import/download-import-file?name='
 common_file_link_url_postfix: '&type=attrsedit&isResult=1'
 
 folder_path: 'D:/CRPT/2021.06_июнь/2021.06.24/'
